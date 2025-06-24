@@ -1,6 +1,6 @@
 # Ferramentas para a impartición do módulo de Dixitalización aplicada aos sectores produtivos
 
-## 5 Que é o 5G? Definición e principios básicos
+## Que é o 5G? Definición e principios básicos
 
 A tecnoloxía **5G** (quinta xeración de redes móbiles) representa un salto cualitativo e cuantitativo fronte ás xeracións anteriores. Non se trata só de ofrecer conexións máis rápidas, senón de permitir unha transformación completa da maneira na que os dispositivos e sistemas se comunican entre si. O 5G constitúe unha **infraestrutura crítica** para o desenvolvemento da Industria 4.0, xa que posibilita a conexión masiva de dispositivos, a transmisión de datos case en tempo real e o despregamento de aplicacións avanzadas baseadas na intelixencia artificial, na robótica e na realidade aumentada.
 

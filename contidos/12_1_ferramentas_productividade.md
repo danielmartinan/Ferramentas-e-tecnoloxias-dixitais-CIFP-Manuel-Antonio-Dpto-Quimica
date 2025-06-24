@@ -8,8 +8,8 @@
   Aplicacións que axudan a planificar, organizar, documentar e compartir tarefas ou coñecemento. Buscan reducir tempo “administrativo” e mellorar a colaboración.
 - **Ferramentas de automatización**
   Plataformas ou servizos que executan fluxos de traballo sen intervención humana (ou con mínima supervisión). Poden ser:
-  - **No-code / low-code**: integran aplicacións na nube (ex. Make, Zapier).
-  - **RPA / fluxo industrial**: automatizan accións en software ou controlan dispositivos físicos (ex. UiPath, Node-RED).
+    - **No-code / low-code**: integran aplicacións na nube (ex. Make, Zapier).
+    - **RPA / fluxo industrial**: automatizan accións en software ou controlan dispositivos físicos (ex. UiPath, Node-RED).
 
 A combinación de ambas permite dedicar máis tempo á análise, á docencia e á mellora continua.
 
