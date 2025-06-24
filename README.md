@@ -9,6 +9,6 @@ Neste repositorio poderás atopar:
 
 ## Licenza
 
-![cc_by_nc_sa](cc_by_nc_sa.png)
+![cc_by_nc_sa](imagenes/cc_by_nc_sa.png)
 
 Este repositorio está baixo a licenza [Creative Commons Reconocimiento-NonComercial-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.gl).

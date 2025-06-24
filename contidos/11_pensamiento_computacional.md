@@ -2,7 +2,7 @@
 
 ## Pensamiento computacional
 
-### 1. ¿Qué es el pensamiento computacional?
+### ¿Qué es el pensamiento computacional?
 
 El pensamiento computacional es una competencia cognitiva que permite abordar problemas complejos de forma estructurada y eficiente, mediante estrategias propias de la informática, pero aplicables en cualquier ámbito. No se trata simplemente de programar, sino de pensar como lo haría un científico de la computación ante un desafío: descomponiendo el problema, identificando patrones, abstrayendo lo esencial y diseñando una solución basada en pasos claros.
 
@@ -10,33 +10,33 @@ El término fue popularizado por **Jeannette Wing** en 2006, quien propuso su in
 
 > **Ejemplo**: Ante la necesidad de organizar los turnos de una planta de producción, el pensamiento computacional permite dividir el problema, analizar los patrones de carga de trabajo, abstraer los criterios clave (como habilidades del personal o horarios), y elaborar un algoritmo de asignación justo y eficiente.
 
-### 2. Componentes del pensamiento computacional
+### Componentes del pensamiento computacional
 
-#### 2.1. Descomposición
+#### Descomposición
 
 Consiste en **dividir un problema complejo en partes más pequeñas** y manejables. Esta habilidad facilita su comprensión y resolución, permitiendo asignar responsabilidades o tareas específicas.
 
 > *Ejemplo en FP química*: Para diseñar un sistema automatizado de dosificación, primero se divide el proceso en: toma de datos del sensor, análisis de concentración, activación de válvula, registro de datos, etc.
 
-#### 2.2. Reconocimiento de patrones
+#### Reconocimiento de patrones
 
 Permite **identificar similitudes, regularidades o tendencias** entre elementos o situaciones. Esto ahorra tiempo y esfuerzo, ya que evita reinventar soluciones para problemas similares.
 
 > *Ejemplo*: Si un operario observa que una máquina falla cada vez que hay un pico de humedad, puede detectar ese patrón y anticipar acciones preventivas.
 
-#### 2.3. Abstracción
+#### Abstracción
 
 Implica **centrarse en la información relevante** y eliminar detalles irrelevantes. Gracias a la abstracción, podemos crear modelos simples de problemas complejos.
 
 > *Ejemplo*: En una simulación de procesos químicos, no es necesario modelar cada molécula, sino solo las variables que afectan al resultado: temperatura, presión, reactivos, etc.
 
-#### 2.4. Algoritmos
+#### Algoritmos
 
 Son **secuencias de pasos ordenados y finitos** para resolver un problema. Aprender a construir y seguir algoritmos desarrolla precisión, lógica y eficiencia.
 
 > *Ejemplo*: Un procedimiento escrito para calibrar un sensor de pH puede representarse como un algoritmo con condiciones (¿el valor medido es estable?), bucles (repetir hasta estabilizar), y acciones concretas.
 
-### 3. Pensamiento computacional en FP y sectores productivos
+### Pensamiento computacional en FP y sectores productivos
 
 En el entorno de FP, el pensamiento computacional no es una abstracción académica, sino una **herramienta práctica** para afrontar tareas reales. En sectores productivos, se aplica para:
 
@@ -49,7 +49,7 @@ En el entorno de FP, el pensamiento computacional no es una abstracción académ
 
 También es fundamental para comprender tecnologías habilitadoras como la inteligencia artificial, la robótica o la analítica de datos.
 
-### 4. Relación con otras competencias clave
+### Relación con otras competencias clave
 
 El pensamiento computacional refuerza numerosas competencias clave:
 
@@ -60,7 +60,7 @@ El pensamiento computacional refuerza numerosas competencias clave:
 
 Además, tiene conexiones directas con nociones básicas de programación, sin que ello implique formar programadores. Introducir bloques de código visual (como Scratch) o secuencias lógicas con sensores (como micro\:bit) favorece el pensamiento algorítmico sin barreras técnicas.
 
-### 5. Actividades y metodologías didácticas
+### Actividades y metodologías didácticas
 
 #### Actividades desenchufadas
 
@@ -77,7 +77,7 @@ Además, tiene conexiones directas con nociones básicas de programación, sin q
 
 > *Sugerencia didáctica*: plantear retos vinculados al entorno productivo, como simular el control de una planta piloto, diseñar una cadena de montaje optimizada o representar algoritmos de control de calidad.
 
-### 6. Herramientas y recursos
+### Herramientas y recursos
 
 | Recurso                                    | Tipo                       | Nivel recomendado |
 | ------------------------------------------ | -------------------------- | ----------------- |
@@ -90,7 +90,7 @@ Además, tiene conexiones directas con nociones básicas de programación, sin q
 
 También puede integrarse con herramientas de productividad como **Notion** o **Trello**, para estructurar problemas y documentar soluciones en formato digital.
 
-### 7. Evaluación del pensamiento computacional
+### Evaluación del pensamiento computacional
 
 Más que evaluar productos finales, es clave **observar el proceso**: cómo el alumnado descompone problemas, aplica lógica, colabora, prueba soluciones y reflexiona.
 
