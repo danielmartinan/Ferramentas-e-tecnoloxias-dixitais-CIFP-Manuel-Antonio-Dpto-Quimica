@@ -428,7 +428,7 @@ Limitaciones y desafíos:
 
 ## Redes 5G y conectividad avanzada
 
-![Bandas frecuencia](/imagenes/bandas_frecuencia.png)
+![Bandas frecuencia](bandas_frecuencia.png)
 
 ---
 
@@ -500,7 +500,7 @@ Aprovechando el tema sobre el efecto de la radiación del 5G sobre la salud y su
 
 ## Digitalización y bulos - Falacias lógicas
 
-![ice_cream_vs_shark_attacks](../imagenes/ice_cream_vs_shark_attacks.png)
+![ice_cream_vs_shark_attacks](ice_cream_vs_shark_attacks.png)
 
 ---
 
@@ -628,13 +628,13 @@ Ventajas del Edge Computing:
 
 ## Edge computing
 
-![edge computing](/imagenes/edge.png)
+![edge computing](edge.png)
 
 ---
 
 ## Edge, fog y mist computing
 
-![edge vs mist vs fog](/imagenes/edge_vs_mist_vs_fog.png)
+![edge vs mist vs fog](edge_vs_mist_vs_fog.png)
 
 ---
 
@@ -772,3 +772,4 @@ Ejemplos de uso:
 - **Realidad Mixta (MR)**: Combinación de AR y VR, donde objetos virtuales interactúan con el mundo real.
     - Dispositivos: Microsoft HoloLens, Magic Leap.
     - Aplicaciones de uso: diseño colaborativo, mantenimiento asistido.
+- [Meta Quest 3S](https://www.youtube.com/shorts/C4zuJ6PHRKY)
