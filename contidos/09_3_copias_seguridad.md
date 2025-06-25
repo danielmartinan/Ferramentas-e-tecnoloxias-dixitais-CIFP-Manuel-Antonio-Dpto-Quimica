@@ -6,17 +6,17 @@ Una **copia de seguridad** (o *backup*) es una **réplica de los datos originale
 
 En entornos industriales o educativos digitalizados, la pérdida de datos puede suponer:
 
-* Paradas de producción.
-* Pérdida de trazabilidad.
-* Vulneración de derechos de protección de datos.
-* Pérdida de evaluaciones y documentación del alumnado.
-* Dificultades legales o administrativas.
+- Paradas de producción.
+- Pérdida de trazabilidad.
+- Vulneración de derechos de protección de datos.
+- Pérdida de evaluaciones y documentación del alumnado.
+- Dificultades legales o administrativas.
 
 ### Ejemplos típicos de pérdida de datos
 
-* Un equipo docente borra accidentalmente la carpeta con los informes de prácticas del trimestre.
-* Un laboratorio industrial sufre un ataque de ransomware y todos los registros digitales quedan cifrados.
-* Un portátil con documentación crítica es robado durante una salida técnica.
+- Un equipo docente borra accidentalmente la carpeta con los informes de prácticas del trimestre.
+- Un laboratorio industrial sufre un ataque de ransomware y todos los registros digitales quedan cifrados.
+- Un portátil con documentación crítica es robado durante una salida técnica.
 
 En todos estos casos, disponer de una **copia actualizada y accesible** de los datos puede marcar la diferencia entre una recuperación rápida y una pérdida irreversible.
 
@@ -26,33 +26,33 @@ Existen diferentes tipos de copias de seguridad según el volumen de datos que s
 
 ### Copia completa (*full backup*)
 
-* Se respalda **todo el conjunto de datos seleccionado**, sin importar si ha cambiado o no.
-* Es el método más **fiable** pero también el más **lento** y que más **espacio** consume.
-* Ideal para puntos de control semanales o mensuales, o para archivos críticos.
+- Se respalda **todo el conjunto de datos seleccionado**, sin importar si ha cambiado o no.
+- Es el método más **fiable** pero también el más **lento** y que más **espacio** consume.
+- Ideal para puntos de control semanales o mensuales, o para archivos críticos.
 
 **Ejemplo:** una vez por semana se copia todo el directorio con las evidencias de aprendizaje del alumnado a un disco duro externo.
 
 ### Copia incremental
 
-* Solo copia los **archivos modificados o nuevos** desde la **última copia (completa o incremental)**.
-* Es **más rápida y eficiente** en uso de espacio, pero necesita reconstruir los datos a partir de varias copias si se quiere restaurar todo.
-* Es la más usada en **sistemas automatizados** o backups frecuentes.
+- Solo copia los **archivos modificados o nuevos** desde la **última copia (completa o incremental)**.
+- Es **más rápida y eficiente** en uso de espacio, pero necesita reconstruir los datos a partir de varias copias si se quiere restaurar todo.
+- Es la más usada en **sistemas automatizados** o backups frecuentes.
 
 **Ejemplo:** cada noche se guardan únicamente los documentos modificados ese día, para no repetir copias completas innecesarias.
 
 ### Copia diferencial
 
-* Copia los archivos modificados desde la **última copia completa**.
-* Es un punto intermedio entre la copia completa y la incremental: **más rápida que la completa**, pero **más lenta que la incremental**.
-* A la hora de restaurar, solo se necesitan la copia completa y la última diferencial.
+- Copia los archivos modificados desde la **última copia completa**.
+- Es un punto intermedio entre la copia completa y la incremental: **más rápida que la completa**, pero **más lenta que la incremental**.
+- A la hora de restaurar, solo se necesitan la copia completa y la última diferencial.
 
 **Ejemplo:** si la copia completa fue el lunes, la diferencial del miércoles incluye todos los cambios desde el lunes, no solo los del martes.
 
 ### Copia espejo (*mirror*)
 
-* Mantiene una **réplica exacta** del sistema en tiempo real.
-* Es útil para **disponibilidad inmediata**, pero también **replica los errores**: si se borra un archivo original, se borra en el espejo.
-* No se recomienda como única forma de respaldo.
+- Mantiene una **réplica exacta** del sistema en tiempo real.
+- Es útil para **disponibilidad inmediata**, pero también **replica los errores**: si se borra un archivo original, se borra en el espejo.
+- No se recomienda como única forma de respaldo.
 
 **Ejemplo:** un disco NAS en red que clona constantemente el contenido de la carpeta de materiales del módulo.
 
@@ -75,22 +75,23 @@ Implica guardar las copias de seguridad **en dispositivos físicos** situados ce
 
 #### Ejemplos
 
-* Discos duros externos (USB 3.0, SSD).
-* Servidores NAS (almacenamiento conectado en red).
-* Pendrives (para copias muy pequeñas o rápidas).
-* Sistemas RAID locales.
+- Discos duros externos (USB 3.0, SSD).
+- Servidores NAS (almacenamiento conectado en red).
+- Pendrives (para copias muy pequeñas o rápidas).
+- Sistemas RAID locales.
 
 #### Ventajas
 
-* Acceso rápido y sin necesidad de conexión a internet.
-* Control directo sobre los datos y su ubicación física.
-* Coste bajo una vez adquirido el hardware.
+- Acceso rápido y sin necesidad de conexión a internet.
+- Control directo sobre los datos y su ubicación física.
+- Coste bajo una vez adquirido el hardware.
 
 #### Inconvenientes
 
-* Vulnerables a incendios, robos, accidentes físicos o malware local.
-* Requiere disciplina para su mantenimiento y revisión.
-* Riesgo de fallo de hardware si no se usan sistemas redundantes.
+- Vulnerables a incendios, robos, accidentes físicos o malware local.
+- Inversión inicial alta en hardware.
+- Requiere disciplina para su mantenimiento y revisión.
+- Riesgo de fallo de hardware si no se usan sistemas redundantes.
 
 #### Aplicación educativa
 
@@ -102,22 +103,22 @@ Consiste en subir las copias a **servidores remotos** gestionados por proveedore
 
 #### Ejemplos
 
-* **Google Drive**, **Microsoft OneDrive**, **Dropbox** (uso personal y educativo).
-* **iCloud**, **pCloud**, **Mega** (con capacidades cifradas).
-* Soluciones empresariales: **Amazon S3**, **Azure Backup**, **Backblaze**, **Wasabi**.
+- **Google Drive**, **Microsoft OneDrive**, **Dropbox** (uso personal y educativo).
+- **iCloud**, **pCloud**, **Mega** (con capacidades cifradas).
+- Soluciones empresariales: **Amazon S3**, **Azure Backup**, **Backblaze**, **Wasabi**.
 
 #### Ventajas
 
-* Accesibilidad desde cualquier lugar con conexión.
-* Escalabilidad: puedes aumentar capacidad fácilmente.
-* Seguridad avanzada (cifrado, control de accesos, redundancia geográfica).
-* Automatización y restauración rápida desde múltiples dispositivos.
+- Accesibilidad desde cualquier lugar con conexión.
+- Escalabilidad: puedes aumentar capacidad fácilmente.
+- Seguridad avanzada (cifrado, control de accesos, redundancia geográfica).
+- Automatización y restauración rápida desde múltiples dispositivos.
 
 #### Inconvenientes
 
-* Dependencia de la conexión a internet.
-* Coste mensual o anual según volumen de datos.
-* Riesgo de mal uso si no se configuran bien los permisos o contraseñas.
+- Dependencia de la conexión a internet.
+- Coste mensual o anual según volumen de datos.
+- Riesgo de mal uso si no se configuran bien los permisos o contraseñas.
 
 #### Aplicación educativa
 
@@ -141,15 +142,15 @@ Uno de los errores más comunes en la gestión de backups es realizarlos **de fo
 
 Depende de:
 
-* La **frecuencia de cambio** de los datos.
-* La **importancia o sensibilidad** de la información.
-* Los **recursos disponibles**.
+- La **frecuencia de cambio** de los datos.
+- La **importancia o sensibilidad** de la información.
+- Los **recursos disponibles**.
 
 #### Recomendaciones orientativas
 
-* **Documentos de trabajo diario**: copia diaria o continua (sincronización automática).
-* **Archivos de proyecto o trimestrales**: copia semanal o mensual.
-* **Datos críticos (contraseñas, bases de datos, evaluaciones)**: copia automática diaria, con versión histórica.
+- **Documentos de trabajo diario**: copia diaria o continua (sincronización automática).
+- **Archivos de proyecto o trimestrales**: copia semanal o mensual.
+- **Datos críticos (contraseñas, bases de datos, evaluaciones)**: copia automática diaria, con versión histórica.
 
 ### Regla 3-2-1 de copias de seguridad
 
@@ -161,21 +162,21 @@ Una regla práctica y ampliamente recomendada:
 
 Ejemplo aplicado en un entorno educativo:
 
-* Documentos originales en el equipo del profesor.
-* Copia local automática en disco duro externo del centro.
-* Copia en la nube en cuenta educativa de Google Drive.
+- Documentos originales en el equipo del profesor.
+- Copia local automática en disco duro externo del centro.
+- Copia en la nube en cuenta educativa de Google Drive.
 
-### 4.3 Automatización
+### Automatización
 
 Las herramientas modernas permiten **programar copias automáticas** con sincronización, alertas de error y versiones históricas.
 
-#### Herramientas comunes para automatizar:
+#### Herramientas comunes para automatizar
 
-* **Windows**: Historial de archivos, Copias de seguridad de Windows.
-* **macOS**: Time Machine.
-* **Linux**: rsync, Deja Dup.
-* **Nube educativa**: Google Backup & Sync, OneDrive Sync Client.
-* **Herramientas externas**: AOMEI Backupper, Cobian Backup, Duplicati (open source), Veeam (uso profesional).
+- **Windows**: Historial de archivos, Copias de seguridad de Windows.
+- **macOS**: Time Machine.
+- **Linux**: rsync, Deja Dup.
+- **Nube educativa**: Google Backup & Sync, OneDrive Sync Client.
+- **Herramientas externas**: AOMEI Backupper, Cobian Backup, Duplicati (open source), Veeam (uso profesional).
 
 #### Aplicación en el aula
 
@@ -218,9 +219,9 @@ Relacionar la seguridad de los datos con los contenidos de ciberseguridad y resp
 **Situación:**
 Se propone a los alumnos una simulación de “fallo total” en sus equipos. Deben:
 
-* Comprobar si tienen copia.
-* Restaurar los archivos importantes.
-* Redactar un informe de lecciones aprendidas.
+- Comprobar si tienen copia.
+- Restaurar los archivos importantes.
+- Redactar un informe de lecciones aprendidas.
 
 **Objetivo didáctico:**
 Poner en práctica lo aprendido sobre frecuencia de copia, herramientas y criterios de restauración.
@@ -237,12 +238,11 @@ A continuación, se proponen actividades que pueden integrarse en el desarrollo 
 
 1. Presentar un escenario (por ejemplo: “Eres responsable digital de una empresa química con documentos técnicos, informes de calidad, y datos de personal”).
 2. El alumnado debe decidir:
-
-   * Qué datos se copian.
-   * Con qué frecuencia.
-   * Con qué herramientas.
-   * Dónde se guardan.
-   * Qué riesgos se cubren.
+   - Qué datos se copian.
+   - Con qué frecuencia.
+   - Con qué herramientas.
+   - Dónde se guardan.
+   - Qué riesgos se cubren.
 
 **Evaluación:** Se valorará la viabilidad, seguridad y cumplimiento normativo del plan.
 
@@ -252,18 +252,17 @@ A continuación, se proponen actividades que pueden integrarse en el desarrollo 
 
 **Desarrollo:**
 
-* El docente elimina deliberadamente una carpeta o archivo de prueba.
-* El alumnado debe recuperarlo usando:
-
-  * Versiones anteriores (historial).
-  * Papelera.
-  * Copia sincronizada en nube.
-  * Disco externo si procede.
+- El docente elimina deliberadamente una carpeta o archivo de prueba.
+- El alumnado debe recuperarlo usando:
+    - Versiones anteriores (historial).
+    - Papelera.
+    - Copia sincronizada en nube.
+    - Disco externo si procede.
 
 **Variantes:**
 
-* Realizarlo en grupo.
-* Cambiar el sistema operativo o herramienta.
+- Realizarlo en grupo.
+- Cambiar el sistema operativo o herramienta.
 
 ### Actividad 3: revisión crítica de políticas de copia en servicios cloud
 
@@ -275,10 +274,10 @@ A continuación, se proponen actividades que pueden integrarse en el desarrollo 
 2. Cada grupo investiga un servicio (Google Drive, Dropbox, OneDrive...).
 3. Deben responder a:
 
-   * ¿Qué pasa si borras un archivo?
-   * ¿Cuánto tiempo puedes restaurarlo?
-   * ¿Cuántas versiones guarda?
-   * ¿Qué pasa si cierras la cuenta?
+   - ¿Qué pasa si borras un archivo?
+   - ¿Cuánto tiempo puedes restaurarlo?
+   - ¿Cuántas versiones guarda?
+   - ¿Qué pasa si cierras la cuenta?
 
 **Evaluación:** Comparación argumentada de los servicios, presentación al grupo y conclusiones.
 
@@ -289,9 +288,9 @@ A continuación, se proponen actividades que pueden integrarse en el desarrollo 
 **Desarrollo:**
 Durante una semana, el alumnado:
 
-* Registra qué datos genera.
-* Identifica cuáles serían irrecuperables si su equipo fallara.
-* Describe qué copias realiza (o no) y cómo podría mejorarlo.
+- Registra qué datos genera.
+- Identifica cuáles serían irrecuperables si su equipo fallara.
+- Describe qué copias realiza (o no) y cómo podría mejorarlo.
 
 **Evaluación:** Informe final con autorreflexión.
 
@@ -299,6 +298,6 @@ Durante una semana, el alumnado:
 
 La gestión correcta de copias de seguridad es **una competencia básica en la era digital**. No solo protege los datos, sino que:
 
-* Garantiza la continuidad educativa y profesional.
-* Cumple con la normativa legal vigente.
-* Enseña responsabilidad y planificación tecnológica.
+- Garantiza la continuidad educativa y profesional.
+- Cumple con la normativa legal vigente.
+- Enseña responsabilidad y planificación tecnológica.

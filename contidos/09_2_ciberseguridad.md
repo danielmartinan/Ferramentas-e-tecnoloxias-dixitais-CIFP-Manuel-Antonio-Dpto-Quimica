@@ -47,21 +47,39 @@ A ciberseguridade require un enfoque en capas, onde cada nivel aporta unha prote
 | Aplicacións          | Xestión de permisos, cifrado, rexistros de acceso, backups regulares                 |
 | Empresa/organización | Políticas de seguridade, plans de continxencia e recuperación, auditorías            |
 
-## Contraseñas
+## Contrasinais e autenticación
 
-### Buenas prácticas
+As contrasinais son unha das primeiras liñas de defensa contra accesos non autorizados. Aquí tes algúns conceptos clave.
 
-- Contraseña compleja
-- Contraseña diferente
-- Contraseña aséptica
-- Contraseña intransferible
+### Boas prácticas
+
+Algunhas boas prácticas para a xestión de contrasinais son:
+
+- Contraseña compleja:
+    - Longa (mínimo 12 caracteres)
+    - Combinación de maiúsculas, minúsculas, números e símbolos
+- Contraseña diferente:
+    - Non reutilizar contrasinais en diferentes servizos
+    - Non usar información persoal facilmente adiviñable
+- Contraseña aséptica:
+    - No vinculadas a datas ou eventos persoais
+    - Non usar palabras comúns ou patróns predecibles
+- Contraseña intransferible:
+    - Non enviar contrasinais por correo electrónico ou mensaxería
+    - Non escribir contrasinais en lugares visibles
 - Contraseña a buen recaudo
+    - Uso de xestores de contrasinais para almacenar e xestionar contrasinais complexos
 
 ### Autenticación multifactor
 
+A autenticación multifactor (MFA) engade unha capa adicional de seguridade ao requirir máis dunha forma de verificación. Aquí tes algúns tipos:
+
 - Autenticacion en dous pasos (2FA)
+    - Combinación de algo que sabes (contrasinal) e algo que tes (código enviado ao móbil)
 - Autenticación en tres pasos (3FA)
+    - Combinación de algo que sabes, algo que tes e algo que es (biometría)
 - Autenticación en cuatro pasos (4FA)
+    - Combinación de algo que sabes, algo que tes, algo que es e un comportamento (como a xeolocalización). Utilizado en contornas de alta seguridade.
 
 ### Protección de la información crítica
 

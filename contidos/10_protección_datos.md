@@ -1,10 +1,10 @@
 # Ferramentas para a impartición do módulo de Dixitalización aplicada aos sectores produtivos
 
-## 6. Importancia e protección de datos nunha economía dixital globalizada
+## Importancia e protección de datos nunha economía dixital globalizada
 
 Nun mundo cada vez máis dixital, os datos convertéronse nun recurso estratéxico de primeiro nivel. A súa correcta xestión, almacenamento e protección non só é unha cuestión técnica, senón tamén legal e ética. Neste apartado veremos por que os datos son tan valiosos, os riscos asociados ao seu uso indebido, e as principais estratexias e sistemas para garantir a súa seguridade, tanto a nivel local como global.
 
-### 6.1 A economía dos datos
+### A economía dos datos
 
 A expresión *"os datos son o novo petróleo"* reflicte a importancia que teñen hoxe os datos na toma de decisións, deseño de produtos, publicidade, investigación ou optimización de procesos.
 
@@ -22,7 +22,7 @@ A expresión *"os datos son o novo petróleo"* reflicte a importancia que teñen
 - Datos de consumo enerxético ou emisións.
 - Información dos clientes, provedores, pedidos, etc.
 
-### 6.2 Riscos asociados á xestión de datos
+### Riscos asociados á xestión de datos
 
 A dixitalización implica riscos derivados do uso indebido, perda ou roubo da información. Algúns dos máis importantes son:
 
@@ -34,7 +34,7 @@ A dixitalización implica riscos derivados do uso indebido, perda ou roubo da in
 
 No sector químico, por exemplo, unha alteración de datos de procesos pode ter consecuencias críticas.
 
-### 6.3 Lexislación e dereitos asociados aos datos
+### Lexislación e dereitos asociados aos datos
 
 #### Normativa principal
 
@@ -51,7 +51,7 @@ No sector químico, por exemplo, unha alteración de datos de procesos pode ter 
 
 > Actividade suxerida: analizar un caso real de vulneración da privacidade (ex: filtración de datos sanitarios, redes sociais, etc.)
 
-### 6.4 Estratexias e ferramentas de protección
+### Estratexias e ferramentas de protección
 
 A protección dos datos debe facerse en todos os niveis: usuarios, equipos, redes e sistemas. A continuación enuméranse as principais capas de seguridade:
 
@@ -76,7 +76,7 @@ A protección dos datos debe facerse en todos os niveis: usuarios, equipos, rede
 - Monitorización de logs e eventos de seguridade.
 - Políticas de seguridade e auditoría.
 
-### 6.5 Ciberseguridade industrial (OT)
+### Ciberseguridade industrial (OT)
 
 En contornas industriais (OT), os riscos de ciberseguridade poden afectar non só a datos, senón tamén a equipos físicos e persoas. Algunhas medidas específicas:
 
@@ -85,7 +85,7 @@ En contornas industriais (OT), os riscos de ciberseguridade poden afectar non s�
 - Supervisión de tráfico industrial mediante IDS/IPS industriais.
 - Formación ao persoal en boas prácticas dixitais.
 
-### 6.6 Formación e cultura de seguridade
+### Formación e cultura de seguridade
 
 A tecnoloxía non abonda sen unha cultura de seguridade dixital no persoal:
 
@@ -93,8 +93,9 @@ A tecnoloxía non abonda sen unha cultura de seguridade dixital no persoal:
 - Protocolos claros de resposta ante incidentes.
 - Creación de manuais internos de boas prácticas.
 - Fomento da responsabilidade compartida na protección de datos.
+- Destrución segura de documentos e dispositivos.
 
-### 6.7 Actividade práctica proposta
+### Actividade práctica proposta
 
 **Título:** Avaliación de riscos e boas prácticas de seguridade
 
