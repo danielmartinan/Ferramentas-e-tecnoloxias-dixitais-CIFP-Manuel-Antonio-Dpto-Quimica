@@ -390,8 +390,11 @@ No debemos verlo como una abstracción académica, sino como una herramienta pr�
 
 - Programación por bloques: herramientas como **Scratch** o **Blockly** permiten aprender conceptos básicos de programación de forma visual y sencilla.
 - Lenguajes de programación: **Python** es un lenguaje recomendado para principiantes por su sintaxis clara y versatilidad. Otros lenguajes como **JavaScript** o **Java** también son populares.
+- Aplicaciones de aprendizaje interactivo: **Sololearn**, **Codecademy**, **Mimo**, ofrecen cursos interactivos y de aprendizaje en pequeños pasos diarios (estilo Duolingo).
 - Diseño de secuencias lógicas con **micro:bit** o **Arduino**: permiten aprender a programar mediante la creación de proyectos interactivos y físicos.
 - Diseño de algoritmos con **diagramas de flujo**: herramientas como **draw.io** o **Lucidchart** facilitan la creación de diagramas que representan visualmente los pasos de un algoritmo.
+
+---
 
 ## Herramientas de productividad y de automatización
 
@@ -505,3 +508,11 @@ Fases:
 - **Herramientas de colaboración**: Slack, Microsoft Teams, Google Workspace para mejorar la comunicación interna y el trabajo en equipo.
 
 ---
+
+## Muchas gracias por vuestra atención
+
+## ¿Alguna pregunta?
+
+#### Daniel Martiñán Otero
+
+#### danielmartinan@edu.xunta.gal
