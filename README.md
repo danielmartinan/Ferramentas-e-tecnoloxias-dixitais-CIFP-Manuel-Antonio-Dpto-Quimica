@@ -1,4 +1,4 @@
-# Gerramentas e tecnoloxías dixitais
+# Ferramentas e tecnoloxías dixitais
 
 Curso para o profesorado da familia de Química do CIFP Manuel Antonio, orientado á impartición do módulo de Dixitalización aplicada aos Sectores Produtivos.
 
