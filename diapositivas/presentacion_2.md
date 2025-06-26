@@ -67,7 +67,8 @@ style: |
 La digitalización trae consigo nuevos retos en términos de **ciberseguridad** y **protección de datos**. Es importante entender qué entendemos por datos e información.
 
 - **Dato**: representación simbólica, numérica, alfabética o de otro tipo de una entidad, fenómeno o hecho. Por sí solo, un dato carece de significado contextual.
-- **Información**: surge cuando los datos son organizados, interpretados y contextualizados para generar un conocimiento útil. Por ejemplo, "La temperatura actual es de 23°C" o "El semáforo está en rojo" son informaciones que derivan de datos y permiten tomar decisiones o comprender situaciones.
+- **Información**: surge cuando los datos son **organizados**, **interpretados** y **contextualizados** para generar un conocimiento útil. Por ejemplo, "La temperatura actual es de 23°C" o "El semáforo está en rojo" son informaciones que derivan de datos y permiten tomar decisiones o comprender situaciones.
+- **Conocimiento**: comprensión profunda y estructurada de la información, que peremite tomar decisiones o hacer predicciones. Por ejemplo, entender que una temperatura de 23°C es agradable para la mayoría de las personas o que un semáforo en rojo indica detenerse.
 
 ---
 
